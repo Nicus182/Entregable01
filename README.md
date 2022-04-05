@@ -1,5 +1,5 @@
 # proyecto1
-Entrega1Mcgrath
+Entrega1Corbelle
 
 1. Vista inicial de la pagina:
     http://localhost:8000
